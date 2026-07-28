@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "product": "FantasySurvivors",
   "channel": "stable",
-  "version": "0.1.2",
-  "publishedAt": "2026-07-28T21:05:30.3199988+00:00",
+  "version": "0.2.0",
+  "publishedAt": "2026-07-28T21:19:12.5813147+00:00",
   "minimumLauncherVersion": "0.1.0",
-  "releaseNotes": "Feedback de combat : dégâts flottants autoritaires, colorés par joueur, avec montée et fondu progressif.",
+  "releaseNotes": "Nouveau démarrage : launcher auto-update par version, splash CapiGame, introduction animée, menu principal, modes solo/coop, options et retour menu.",
   "game": {
     "rid": "win-x64",
-    "url": "downloads/0.1.2/win-x64/FantasySurvivors.Game-0.1.2-win-x64.zip",
-    "sha256": "6e413833e11b55ca152f6fb5636d7d1d380b8d815d524cda47bf1a550448c688",
-    "sizeBytes": 108205676
+    "url": "downloads/0.2.0/win-x64/FantasySurvivors.Game-0.2.0-win-x64.zip",
+    "sha256": "7f204c21e0d73f17878e2a5185d764acb77ce1d6812531e901d89830e7adfe12",
+    "sizeBytes": 110134702
   },
   "launcher": {
     "rid": "win-x64",
-    "url": "downloads/0.1.2/win-x64/launcher/FantasySurvivors.Launcher.exe",
-    "sha256": "8ae47f862978bbd40e397efa1e8810d0effdb208101652fad06dfd30102457ee",
-    "sizeBytes": 71581013
+    "url": "downloads/0.2.0/win-x64/launcher/FantasySurvivors.Launcher.exe",
+    "sha256": "362ee22331d1a610fca9eb38faca337418d907c9540296511ca5bf5520ed740e",
+    "sizeBytes": 71579592
   }
 }
