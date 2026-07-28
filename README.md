@@ -14,7 +14,5 @@ Les exécutables sont self-contained pour Windows x64. Le launcher vérifie la
 taille et le SHA-256 du package avant installation, conserve la version
 précédente comme rollback et installe sous `%LOCALAPPDATA%\FantasySurvivors`.
 
-Ce checkout utilise des URLs relatives pour les tests locaux. Avant publication
-sur un hébergeur Git, régénérer la release avec l'URL HTTPS définitive du
-`version.json`.
-
+Le launcher publié lit le manifest stable depuis
+`raw.githubusercontent.com/capisoft-lib/FantasySurvivors-Releases/main/version.json`.
