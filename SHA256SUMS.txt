@@ -1,0 +1,2 @@
+f6af77e9d7d5d36111fd5c95ec48286c8431fc4d285294d3536968ab3d4abe96  downloads/0.1.0/win-x64/FantasySurvivors.Game-0.1.0-win-x64.zip
+1aae81b7511e5e880cb1caea330c4685dbec2c6fb26d2aed30308fa7105fac94  downloads/0.1.0/win-x64/launcher/FantasySurvivors.Launcher.exe

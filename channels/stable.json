@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "product": "FantasySurvivors",
+  "channel": "stable",
+  "version": "0.1.0",
+  "publishedAt": "2026-07-28T20:42:00.5316074+00:00",
+  "minimumLauncherVersion": "0.1.0",
+  "releaseNotes": "Fondation jouable : coop 4, bots, vagues, styles, ascension et attaques automatiques.",
+  "game": {
+    "rid": "win-x64",
+    "url": "downloads/0.1.0/win-x64/FantasySurvivors.Game-0.1.0-win-x64.zip",
+    "sha256": "f6af77e9d7d5d36111fd5c95ec48286c8431fc4d285294d3536968ab3d4abe96",
+    "sizeBytes": 108203007
+  },
+  "launcher": {
+    "rid": "win-x64",
+    "url": "downloads/0.1.0/win-x64/launcher/FantasySurvivors.Launcher.exe",
+    "sha256": "1aae81b7511e5e880cb1caea330c4685dbec2c6fb26d2aed30308fa7105fac94",
+    "sizeBytes": 71580903
+  }
+}
